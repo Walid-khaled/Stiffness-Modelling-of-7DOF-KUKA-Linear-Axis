@@ -38,5 +38,5 @@ This manipulator is kinematically redundant. You can check the redundancy resolu
 First open **IK.m** file and select the preferable redundancy resolution approach as shown below.  
 ![image](https://user-images.githubusercontent.com/90580636/171529073-6cd53dc4-00f9-4a7c-ab84-731ca4e7e62f.png)
 
-Then run **main_redundancy_resolution.m** file for calculations and visualization.
+Then run **main_VJM.m** file for calculations and visualization.
 
