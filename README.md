@@ -20,23 +20,27 @@ In this repository, the implementation of forward and inverse kinematics by redu
 ### Forward Kinematics can be written as follows:
 ![image](https://user-images.githubusercontent.com/90580636/171468322-838cf1ab-ec6d-4d20-b146-d6a899b7f772.png)
 
-## Redundancy Resolution
+
+## Virtual Joint Modelling (VJM)
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/90580636/171469073-93323e4f-abcc-469c-b489-19b9a1db5b5d.png" width="400" height="250" />
-  <img src="https://user-images.githubusercontent.com/90580636/171469345-cb54277e-f549-4ec6-8ec3-556dd4845b13.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/176641612-b8d18086-d22f-4945-a42b-9ea2e4ca14e0.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/176641725-41cd1123-0a58-4b9a-bc58-801c1360e917.png" width="400" height="250" />
 </p>
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/90580636/171469849-489290aa-b067-4952-9732-b77974ec8a10.png" width="400" height="250" />
-  <img src="https://user-images.githubusercontent.com/90580636/171469928-d7b110be-e9cd-44af-a386-8c02b60a546d.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/176641828-0c636d0a-7f44-4b83-abe9-9c66e3b4d3f2.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/176641906-647ef014-000a-4f34-a2d9-c97951b3ef51.png" width="400" height="250" />
 </p>
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/90580636/171470153-220e32db-2a84-4a0e-a2dc-6f905537f914.png" width="400" height="250" />
-  <img src="https://user-images.githubusercontent.com/90580636/171528705-ad43698d-2fb1-4dde-9b31-ebfeaaa90476.gif" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/176641995-6c439eca-dd76-491e-bf04-24ce92a01fb9.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/176642042-cf0b13dc-c89e-4061-8212-69a0942de19e.png" width="400" height="250" />
 </p>
 
-Full video is attached [Demo](https://drive.google.com/file/d/1I8UYfvtLoLUNbsUBSjFK0nfnFJDAhTh2/view?usp=sharing)
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/90580636/176642127-bedd2e6c-f490-4725-9753-ea8edc08fb12.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/176642187-5f75fb47-dcd3-4a2a-8ba5-6074c552d267.png" width="400" height="250" />
+</p>
 
 ## Accuracy and Execution Time
 <p float="left">
