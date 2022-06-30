@@ -33,7 +33,7 @@ In this repository, the implementation of forward and inverse kinematics by redu
 </p>
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/90580636/176641995-6c439eca-dd76-491e-bf04-24ce92a01fb9.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/176642441-b82f92c1-e4aa-4af5-8090-c238218691c0.png" width="400" height="250" />
   <img src="https://user-images.githubusercontent.com/90580636/176642042-cf0b13dc-c89e-4061-8212-69a0942de19e.png" width="400" height="250" />
 </p>
 
@@ -42,11 +42,6 @@ In this repository, the implementation of forward and inverse kinematics by redu
   <img src="https://user-images.githubusercontent.com/90580636/176642187-5f75fb47-dcd3-4a2a-8ba5-6074c552d267.png" width="400" height="250" />
 </p>
 
-## Accuracy and Execution Time
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/90580636/171470183-2ce3e89f-c301-4c04-a6e9-2bafcdb007ac.png" width="400" height="250" />
-  <img src="https://user-images.githubusercontent.com/90580636/171470229-4b67a4a2-a5a0-4eb3-bdb6-4ea947d22362.png" width="400" height="250" />
-</p>
 
 ## How to run
 First open **IK.m** file and select the preferable redundancy resolution approach as shown below.  
