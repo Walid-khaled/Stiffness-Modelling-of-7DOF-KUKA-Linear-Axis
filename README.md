@@ -40,4 +40,3 @@ First open **IK.m** file and select the preferable redundancy resolution approac
 
 Then run **main_VJM.m** file for calculations and visualization.
 
-[MIT License](https://github.com/Walid-khaled/Stiffness-Modelling-of-7DOF-KUKA-Linear-Axis/blob/main/LICENSE)
