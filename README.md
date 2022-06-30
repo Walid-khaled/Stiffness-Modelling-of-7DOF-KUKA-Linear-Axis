@@ -33,15 +33,14 @@ In this repository, the implementation of forward and inverse kinematics by redu
 </p>
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/90580636/176642441-b82f92c1-e4aa-4af5-8090-c238218691c0.png" width="400" height="250" />
-  <img src="https://user-images.githubusercontent.com/90580636/176642042-cf0b13dc-c89e-4061-8212-69a0942de19e.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/176642742-3945f3dc-4f14-4bd9-b1c6-ca7385e6cb51.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/176642827-8b053d7b-a210-42f9-ad79-c2fbdb9b7e8f.png" width="400" height="250" />
 </p>
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/90580636/176642127-bedd2e6c-f490-4725-9753-ea8edc08fb12.png" width="400" height="250" />
-  <img src="https://user-images.githubusercontent.com/90580636/176642187-5f75fb47-dcd3-4a2a-8ba5-6074c552d267.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/176642941-8221293b-32a3-4926-b8be-81c5882bd9c4.png" width="400" height="250" />
+  <img src="https://user-images.githubusercontent.com/90580636/176643122-6665294c-1182-407a-9539-6ae63437e8ce.png" width="400" height="250" />
 </p>
-
 
 ## How to run
 First open **IK.m** file and select the preferable redundancy resolution approach as shown below.  
